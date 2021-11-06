@@ -61,6 +61,11 @@
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\CharacterController2D.cs" />
     <Compile Include="Assets\Scripts\MainMenu.cs" />
+    <Compile Include="Assets\Scripts\SceneScripts\Scene1Selector.cs" />
+    <Compile Include="Assets\Scripts\SceneScripts\Scene2Selector.cs" />
+    <Compile Include="Assets\Scripts\SceneScripts\Scene10Selector.cs" />
+    <Compile Include="Assets\Scripts\SceneScripts\Scene11Selector.cs" />
+    <Compile Include="Assets\Scripts\SettingsController.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
