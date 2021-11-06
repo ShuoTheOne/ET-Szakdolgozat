@@ -1,0 +1,648 @@
+fileFormatVersion: 2
+guid: 76e3e1870e40a9d428b9e110c757d929
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8710139020248897593
+    second: adam_turn_left_500x889 _0
+  - first:
+      213: 7444334221099222501
+    second: adam_turn_left_500x889 _1
+  - first:
+      213: 8387358174439272975
+    second: adam_turn_left_500x889 _2
+  - first:
+      213: -4415378484886118995
+    second: adam_turn_left_500x889 _3
+  - first:
+      213: 32673122422754577
+    second: adam_turn_left_500x889 _4
+  - first:
+      213: -3586825764723699536
+    second: adam_turn_left_500x889 _5
+  - first:
+      213: -286264908358360605
+    second: adam_turn_left_500x889 _6
+  - first:
+      213: 610523565845642420
+    second: adam_turn_left_500x889 _7
+  - first:
+      213: 4751089799056041444
+    second: adam_turn_left_500x889 _8
+  - first:
+      213: 2476602105146697034
+    second: adam_turn_left_500x889 _9
+  - first:
+      213: 4135515308694662156
+    second: adam_turn_left_500x889 _10
+  - first:
+      213: 3215728918554862922
+    second: adam_turn_left_500x889 _11
+  - first:
+      213: 4977886884481860659
+    second: adam_turn_left_500x889 _12
+  - first:
+      213: 7721913299661357691
+    second: adam_turn_left_500x889 _13
+  - first:
+      213: -5609105152705177660
+    second: adam_turn_left_500x889 _14
+  - first:
+      213: -3997749492510065718
+    second: adam_turn_left_500x889 _15
+  - first:
+      213: -8472231795855211699
+    second: adam_turn_left_500x889 _16
+  - first:
+      213: 367932456495499674
+    second: adam_turn_left_500x889 _17
+  - first:
+      213: -5327448117878390451
+    second: adam_turn_left_500x889 _18
+  - first:
+      213: -2828482994718677282
+    second: adam_turn_left_500x889 _19
+  - first:
+      213: -4349361950859750852
+    second: adam_turn_left_500x889 _20
+  - first:
+      213: -918967129611304647
+    second: adam_turn_left_500x889 _21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: adam_turn_left_500x889 _0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1159
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7abc995be5f1780800000000000000
+      internalID: -8710139020248897593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_turn_left_500x889 _1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1159
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e547e548869f4760800000000000000
+      internalID: 7444334221099222501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_turn_left_500x889 _2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1159
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02fb6f42d1e56470800000000000000
+      internalID: 8387358174439272975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_turn_left_500x889 _3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1159
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadd57369ac69b2c0800000000000000
+      internalID: -4415378484886118995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_turn_left_500x889 _4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1159
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d06bf1804147000800000000000000
+      internalID: 32673122422754577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_turn_left_500x889 _5
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1159
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0dc6688f8093ec0800000000000000
+      internalID: -3586825764723699536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_turn_left_500x889 _6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1159
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1e3a1259bf60cf0800000000000000
+      internalID: -286264908358360605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_turn_left_500x889 _7
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1159
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcfb3dc2f3097800800000000000000
+      internalID: 610523565845642420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_turn_left_500x889 _8
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1159
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5a7b8fff24fe140800000000000000
+      internalID: 4751089799056041444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_turn_left_500x889 _9
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1159
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45e0473e78ae5220800000000000000
+      internalID: 2476602105146697034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_turn_left_500x889 _10
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1159
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c6fe9234d446930800000000000000
+      internalID: 4135515308694662156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_turn_left_500x889 _11
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 1159
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45e96ce96090ac20800000000000000
+      internalID: 3215728918554862922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_turn_left_500x889 _12
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1159
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3340e995fb1051540800000000000000
+      internalID: 4977886884481860659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_turn_left_500x889 _13
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 1159
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b720eaccb3fb92b60800000000000000
+      internalID: 7721913299661357691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_turn_left_500x889 _14
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 1159
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7d139f4947822b0800000000000000
+      internalID: -5609105152705177660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_turn_left_500x889 _15
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 1159
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb70fd74042588c0800000000000000
+      internalID: -3997749492510065718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_turn_left_500x889 _16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43c749c1169c6a80800000000000000
+      internalID: -8472231795855211699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_turn_left_500x889 _17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 270
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9940caae982b1500800000000000000
+      internalID: 367932456495499674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_turn_left_500x889 _18
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 270
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41098ea92a1116b0800000000000000
+      internalID: -5327448117878390451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_turn_left_500x889 _19
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 270
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed66f86c3b53fb8d0800000000000000
+      internalID: -2828482994718677282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_turn_left_500x889 _20
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 270
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32976f7956f3a3c0800000000000000
+      internalID: -4349361950859750852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_turn_left_500x889 _21
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 270
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9310247b34c2f33f0800000000000000
+      internalID: -918967129611304647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
