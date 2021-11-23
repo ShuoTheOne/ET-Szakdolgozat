@@ -1,0 +1,1206 @@
+fileFormatVersion: 2
+guid: 3e3bf14356af6654fa5ebd463678bc7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6503194258344745908
+    second: adam_FLOATFromDOUBLEJUMP_600x889_0
+  - first:
+      213: 8484291914908870143
+    second: adam_FLOATFromDOUBLEJUMP_600x889_1
+  - first:
+      213: -8753059030222397276
+    second: adam_FLOATFromDOUBLEJUMP_600x889_2
+  - first:
+      213: -216754063911267609
+    second: adam_FLOATFromDOUBLEJUMP_600x889_3
+  - first:
+      213: 8157986053640900189
+    second: adam_FLOATFromDOUBLEJUMP_600x889_4
+  - first:
+      213: -7294437218601052568
+    second: adam_FLOATFromDOUBLEJUMP_600x889_5
+  - first:
+      213: -1540321099581765801
+    second: adam_FLOATFromDOUBLEJUMP_600x889_6
+  - first:
+      213: -3262864504786258475
+    second: adam_FLOATFromDOUBLEJUMP_600x889_7
+  - first:
+      213: 5719386657771141920
+    second: adam_FLOATFromDOUBLEJUMP_600x889_8
+  - first:
+      213: -4537329963801464968
+    second: adam_FLOATFromDOUBLEJUMP_600x889_9
+  - first:
+      213: -5259298346589813066
+    second: adam_FLOATFromDOUBLEJUMP_600x889_10
+  - first:
+      213: -8363541565068493982
+    second: adam_FLOATFromDOUBLEJUMP_600x889_11
+  - first:
+      213: -116941417036401176
+    second: adam_FLOATFromDOUBLEJUMP_600x889_12
+  - first:
+      213: 5838204221324668059
+    second: adam_FLOATFromDOUBLEJUMP_600x889_13
+  - first:
+      213: 4053196172011122103
+    second: adam_FLOATFromDOUBLEJUMP_600x889_14
+  - first:
+      213: -1261025140806352780
+    second: adam_FLOATFromDOUBLEJUMP_600x889_15
+  - first:
+      213: -6736514235062850140
+    second: adam_FLOATFromDOUBLEJUMP_600x889_16
+  - first:
+      213: 8169633451178443647
+    second: adam_FLOATFromDOUBLEJUMP_600x889_17
+  - first:
+      213: -1962005584511953058
+    second: adam_FLOATFromDOUBLEJUMP_600x889_18
+  - first:
+      213: -3360670044221828521
+    second: adam_FLOATFromDOUBLEJUMP_600x889_19
+  - first:
+      213: 5251333853885186100
+    second: adam_FLOATFromDOUBLEJUMP_600x889_20
+  - first:
+      213: -4409448031480566710
+    second: adam_FLOATFromDOUBLEJUMP_600x889_21
+  - first:
+      213: 4284279866308225078
+    second: adam_FLOATFromDOUBLEJUMP_600x889_22
+  - first:
+      213: -5908772057623920777
+    second: adam_FLOATFromDOUBLEJUMP_600x889_23
+  - first:
+      213: -5416896602165759590
+    second: adam_FLOATFromDOUBLEJUMP_600x889_24
+  - first:
+      213: 2890257836973859140
+    second: adam_FLOATFromDOUBLEJUMP_600x889_25
+  - first:
+      213: -4724518499786393931
+    second: adam_FLOATFromDOUBLEJUMP_600x889_26
+  - first:
+      213: 314649195717806506
+    second: adam_FLOATFromDOUBLEJUMP_600x889_27
+  - first:
+      213: -5374131766847555783
+    second: adam_FLOATFromDOUBLEJUMP_600x889_28
+  - first:
+      213: -7213861782059422523
+    second: adam_FLOATFromDOUBLEJUMP_600x889_29
+  - first:
+      213: 2700026926211520304
+    second: adam_FLOATFromDOUBLEJUMP_600x889_30
+  - first:
+      213: 3166489990496430829
+    second: adam_FLOATFromDOUBLEJUMP_600x889_31
+  - first:
+      213: -8857800000379591531
+    second: adam_FLOATFromDOUBLEJUMP_600x889_32
+  - first:
+      213: 8867703158337309552
+    second: adam_FLOATFromDOUBLEJUMP_600x889_33
+  - first:
+      213: 2438722225537630590
+    second: adam_FLOATFromDOUBLEJUMP_600x889_34
+  - first:
+      213: -2826079395460051596
+    second: adam_FLOATFromDOUBLEJUMP_600x889_35
+  - first:
+      213: -5872819012814844950
+    second: adam_FLOATFromDOUBLEJUMP_600x889_36
+  - first:
+      213: 7691179643731471682
+    second: adam_FLOATFromDOUBLEJUMP_600x889_37
+  - first:
+      213: -1930835574205712327
+    second: adam_FLOATFromDOUBLEJUMP_600x889_38
+  - first:
+      213: 6722848614887568910
+    second: adam_FLOATFromDOUBLEJUMP_600x889_39
+  - first:
+      213: 2878001350958718113
+    second: adam_FLOATFromDOUBLEJUMP_600x889_40
+  - first:
+      213: 9158795443544241080
+    second: adam_FLOATFromDOUBLEJUMP_600x889_41
+  - first:
+      213: 518243836035232600
+    second: adam_FLOATFromDOUBLEJUMP_600x889_42
+  - first:
+      213: 5476084037864713899
+    second: adam_FLOATFromDOUBLEJUMP_600x889_43
+  - first:
+      213: 5751896468868816905
+    second: adam_FLOATFromDOUBLEJUMP_600x889_44
+  - first:
+      213: -6465791281472115260
+    second: adam_FLOATFromDOUBLEJUMP_600x889_45
+  - first:
+      213: 1396070924500769359
+    second: adam_FLOATFromDOUBLEJUMP_600x889_46
+  - first:
+      213: 5043214157111130006
+    second: adam_FLOATFromDOUBLEJUMP_600x889_47
+  - first:
+      213: 52133279268292474
+    second: adam_FLOATFromDOUBLEJUMP_600x889_48
+  - first:
+      213: -4467217926280495297
+    second: adam_FLOATFromDOUBLEJUMP_600x889_49
+  - first:
+      213: 4069089282288315204
+    second: adam_FLOATFromDOUBLEJUMP_600x889_50
+  - first:
+      213: -8162414608867765466
+    second: adam_FLOATFromDOUBLEJUMP_600x889_51
+  - first:
+      213: -8668477153532650982
+    second: adam_FLOATFromDOUBLEJUMP_600x889_52
+  - first:
+      213: 5159270167541636683
+    second: adam_FLOATFromDOUBLEJUMP_600x889_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb9ff9f8bcff3a50800000000000000
+      internalID: 6503194258344745908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5acde7b824eb570800000000000000
+      internalID: 8484291914908870143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0a19d0033e68680800000000000000
+      internalID: -8753059030222397276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_3
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e252f8c35fedfcf0800000000000000
+      internalID: -216754063911267609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_4
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e4bd9c71df63170800000000000000
+      internalID: 8157986053640900189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_5
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86655ec4ff3f4ca90800000000000000
+      internalID: -7294437218601052568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_6
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757c363fe1eaf9ae0800000000000000
+      internalID: -1540321099581765801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_7
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5fbf1350af7b2d0800000000000000
+      internalID: -3262864504786258475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_8
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bbe85dcd75f5f40800000000000000
+      internalID: 5719386657771141920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_9
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fa0ee007a2801c0800000000000000
+      internalID: -4537329963801464968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_10
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b607bbc4083307b0800000000000000
+      internalID: -5259298346589813066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_11
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bb0ed224bbeeb80800000000000000
+      internalID: -8363541565068493982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_12
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5b30a966a806ef0800000000000000
+      internalID: -116941417036401176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c2e32aec7750150800000000000000
+      internalID: 5838204221324668059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd22b59178df3830800000000000000
+      internalID: 4053196172011122103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470866dc050ff7ee0800000000000000
+      internalID: -1261025140806352780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_16
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad67baaef71382a0800000000000000
+      internalID: -6736514235062850140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_17
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73c3aad65e506170800000000000000
+      internalID: 8169633451178443647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_18
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5715d7e05e85c4e0800000000000000
+      internalID: -1962005584511953058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_19
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7529cde76608c51d0800000000000000
+      internalID: -3360670044221828521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_20
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4304fcd315c70e840800000000000000
+      internalID: 5251333853885186100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_21
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c2e0ca06e7ec2c0800000000000000
+      internalID: -4409448031480566710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_22
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638e8add6d1d47b30800000000000000
+      internalID: 4284279866308225078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_23
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f729e9e13dffda0800000000000000
+      internalID: -5908772057623920777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_24
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91b3e28d3153d4b0800000000000000
+      internalID: -5416896602165759590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_25
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441ad1280324c1820800000000000000
+      internalID: 2890257836973859140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6787db4732f6eb0800000000000000
+      internalID: -4724518499786393931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_27
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa94f93c6cbdd5400800000000000000
+      internalID: 314649195717806506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_28
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937b8e4a1af3b65b0800000000000000
+      internalID: -5374131766847555783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_29
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cce49d0ee633eb90800000000000000
+      internalID: -7213861782059422523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_30
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037d3dc1f2c687520800000000000000
+      internalID: 2700026926211520304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_31
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deaae5c9ed1a1fb20800000000000000
+      internalID: 3166489990496430829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_32
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5946bed84d5c21580800000000000000
+      internalID: -8857800000379591531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_33
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b0e461a09601b70800000000000000
+      internalID: 8867703158337309552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_34
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71450771f418d120800000000000000
+      internalID: 2438722225537630590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_35
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d8d8653cfb7c8d0800000000000000
+      internalID: -2826079395460051596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_36
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebc20f293e8f7ea0800000000000000
+      internalID: -5872819012814844950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_37
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d6458e22f8cba60800000000000000
+      internalID: 7691179643731471682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_38
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938f7c7764b4435e0800000000000000
+      internalID: -1930835574205712327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06b911323b5c4d50800000000000000
+      internalID: 6722848614887568910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_40
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 540
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac1dfafaf6b0f720800000000000000
+      internalID: 2878001350958718113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_41
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 540
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3bbe63ee39a1f70800000000000000
+      internalID: 9158795443544241080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_42
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 540
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8537ae9e50c213700800000000000000
+      internalID: 518243836035232600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromDOUBLEJUMP_600x889_43
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 540
+        width: 600
+        height: 889
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baeec1d3b65fefb40800000000000000
+      internalID: 5476084037864713899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

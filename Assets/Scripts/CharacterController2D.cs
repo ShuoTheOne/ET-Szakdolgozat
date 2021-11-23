@@ -5,6 +5,7 @@ public class CharacterController2D : MonoBehaviour
 {
 	[SerializeField] private float m_JumpForce = 400f;                          // Amount of force added when the player jumps.
 	[Range(0, 1)] [SerializeField] private float m_CrouchSpeed = .36f;          // Amount of maxSpeed applied to crouching movement. 1 = 100%
+	[Range(0, 1)] [SerializeField] private float m_WalkSpeed = .36f;
 	[Range(0, .3f)] [SerializeField] private float m_MovementSmoothing = .05f;  // How much to smooth out the movement
 	[SerializeField] private bool m_AirControl = false;                         // Whether or not a player can steer while jumping;
 	[SerializeField] private LayerMask m_WhatIsGround;                          // A mask determining what is ground to the character
@@ -30,10 +31,14 @@ public class CharacterController2D : MonoBehaviour
 	public BoolEvent OnCrouchEvent;
 	private bool m_wasCrouching = false;
 
+	public BoolEvent OnWalkEvent;
+	private bool m_wasWalking = false;
+
 	private int extraJump;
 	public int extraJumpValue;
 
 	public Animator animator;
+	public ParticleSystem dust;
 
 	private void Awake()
 	{
@@ -45,6 +50,9 @@ public class CharacterController2D : MonoBehaviour
 
 		if (OnCrouchEvent == null)
 			OnCrouchEvent = new BoolEvent();
+
+		if (OnWalkEvent == null)
+			OnWalkEvent = new BoolEvent();
 	}
 
 	private void FixedUpdate()
@@ -83,7 +91,7 @@ public class CharacterController2D : MonoBehaviour
 	}
 
 
-    public void Move(float move, bool crouch, bool jump)
+    public void Move(float move, bool crouch, bool jump, bool walk)
 	{
 		if (!crouch)
 		{
@@ -92,6 +100,25 @@ public class CharacterController2D : MonoBehaviour
 				crouch = true;
 			}
 		}
+
+		if (walk)
+        {
+			if (!m_wasWalking)
+            {
+				m_wasWalking = true;
+				OnWalkEvent.Invoke(true);
+			}
+			move *= m_WalkSpeed;
+		}
+		else
+        {
+			if (m_wasWalking)
+			{
+				m_wasWalking = false;
+				OnWalkEvent.Invoke(false);
+			}
+		}
+
 
 		if (m_Grounded || m_AirControl)
 		{
@@ -124,11 +151,13 @@ public class CharacterController2D : MonoBehaviour
 
 			if (move > 0 && !m_FacingRight)
 			{
+				CreateDust(); // PARTICLE WHEN TURNING
 				Flip();
 				//animator.SetBool("isTurning", true); TODO
 			}
 			else if (move < 0 && m_FacingRight)
 			{
+				CreateDust(); // PARTICLE WHEN TURNING
 				Flip();
 				//animator.SetBool("isTurning", false); TODO
 			}
@@ -148,4 +177,9 @@ public class CharacterController2D : MonoBehaviour
 		theScale.x *= -1;
 		transform.localScale = theScale;
 	}
+
+	void CreateDust()
+    {
+		dust.Play();
+    }
 }

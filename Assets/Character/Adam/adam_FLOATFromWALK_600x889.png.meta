@@ -1,0 +1,1206 @@
+fileFormatVersion: 2
+guid: 576ac9d795659a14bb726d0f9737bece
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2128448164954950755
+    second: adam_FLOATFromWALK_600x889_0
+  - first:
+      213: -5721766918559418258
+    second: adam_FLOATFromWALK_600x889_1
+  - first:
+      213: -8220367801914725824
+    second: adam_FLOATFromWALK_600x889_2
+  - first:
+      213: -7057002390281977860
+    second: adam_FLOATFromWALK_600x889_3
+  - first:
+      213: -1791269396631569041
+    second: adam_FLOATFromWALK_600x889_4
+  - first:
+      213: 4142635933070946601
+    second: adam_FLOATFromWALK_600x889_5
+  - first:
+      213: -2169464759182351712
+    second: adam_FLOATFromWALK_600x889_6
+  - first:
+      213: -6809498692215633887
+    second: adam_FLOATFromWALK_600x889_7
+  - first:
+      213: 6661559009032393237
+    second: adam_FLOATFromWALK_600x889_8
+  - first:
+      213: -7799902787352131662
+    second: adam_FLOATFromWALK_600x889_9
+  - first:
+      213: -642166623867077661
+    second: adam_FLOATFromWALK_600x889_10
+  - first:
+      213: -5928011238064856290
+    second: adam_FLOATFromWALK_600x889_11
+  - first:
+      213: -6908812407316092229
+    second: adam_FLOATFromWALK_600x889_12
+  - first:
+      213: 8386593050655403041
+    second: adam_FLOATFromWALK_600x889_13
+  - first:
+      213: -199401828598293234
+    second: adam_FLOATFromWALK_600x889_14
+  - first:
+      213: 1396085554995435238
+    second: adam_FLOATFromWALK_600x889_15
+  - first:
+      213: -2527550518046510135
+    second: adam_FLOATFromWALK_600x889_16
+  - first:
+      213: 1258401051190113166
+    second: adam_FLOATFromWALK_600x889_17
+  - first:
+      213: 8034573703604352575
+    second: adam_FLOATFromWALK_600x889_18
+  - first:
+      213: 2989770246688627843
+    second: adam_FLOATFromWALK_600x889_19
+  - first:
+      213: -5332171631649628646
+    second: adam_FLOATFromWALK_600x889_20
+  - first:
+      213: 5288270347778218078
+    second: adam_FLOATFromWALK_600x889_21
+  - first:
+      213: 4443820949482995572
+    second: adam_FLOATFromWALK_600x889_22
+  - first:
+      213: 8188564802172699639
+    second: adam_FLOATFromWALK_600x889_23
+  - first:
+      213: -5832252199029374207
+    second: adam_FLOATFromWALK_600x889_24
+  - first:
+      213: -4157733860404366100
+    second: adam_FLOATFromWALK_600x889_25
+  - first:
+      213: 6440543736114970298
+    second: adam_FLOATFromWALK_600x889_26
+  - first:
+      213: 8028130176168242349
+    second: adam_FLOATFromWALK_600x889_27
+  - first:
+      213: -7601864453739037047
+    second: adam_FLOATFromWALK_600x889_28
+  - first:
+      213: 4499496825993709614
+    second: adam_FLOATFromWALK_600x889_29
+  - first:
+      213: -4902216780512081704
+    second: adam_FLOATFromWALK_600x889_30
+  - first:
+      213: -4309427684190283312
+    second: adam_FLOATFromWALK_600x889_31
+  - first:
+      213: 8790368148672270978
+    second: adam_FLOATFromWALK_600x889_32
+  - first:
+      213: -8069206785376558923
+    second: adam_FLOATFromWALK_600x889_33
+  - first:
+      213: -6426270741896969471
+    second: adam_FLOATFromWALK_600x889_34
+  - first:
+      213: -4375113905343419693
+    second: adam_FLOATFromWALK_600x889_35
+  - first:
+      213: -5295484449177231048
+    second: adam_FLOATFromWALK_600x889_36
+  - first:
+      213: 8835313342052535266
+    second: adam_FLOATFromWALK_600x889_37
+  - first:
+      213: -639154750866344314
+    second: adam_FLOATFromWALK_600x889_38
+  - first:
+      213: 1309222534955324624
+    second: adam_FLOATFromWALK_600x889_39
+  - first:
+      213: 1437359728427803002
+    second: adam_FLOATFromWALK_600x889_40
+  - first:
+      213: -5069748371789526976
+    second: adam_FLOATFromWALK_600x889_41
+  - first:
+      213: -6238286709047308523
+    second: adam_FLOATFromWALK_600x889_42
+  - first:
+      213: -7695660499928394314
+    second: adam_FLOATFromWALK_600x889_43
+  - first:
+      213: -3957410368809888859
+    second: adam_FLOATFromWALK_600x889_44
+  - first:
+      213: 4463087933875696261
+    second: adam_FLOATFromWALK_600x889_45
+  - first:
+      213: -5052885057745002806
+    second: adam_FLOATFromWALK_600x889_46
+  - first:
+      213: 4704774492570326502
+    second: adam_FLOATFromWALK_600x889_47
+  - first:
+      213: -1142648567844124400
+    second: adam_FLOATFromWALK_600x889_48
+  - first:
+      213: -2908920733054701695
+    second: adam_FLOATFromWALK_600x889_49
+  - first:
+      213: 1970328575597204346
+    second: adam_FLOATFromWALK_600x889_50
+  - first:
+      213: 1857283279472388466
+    second: adam_FLOATFromWALK_600x889_51
+  - first:
+      213: -4566411361661457411
+    second: adam_FLOATFromWALK_600x889_52
+  - first:
+      213: 731120876805303372
+    second: adam_FLOATFromWALK_600x889_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cc8fa3454c98d10800000000000000
+      internalID: 2128448164954950755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e683fa38d433890b0800000000000000
+      internalID: -5721766918559418258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a60db99036bed80800000000000000
+      internalID: -8220367801914725824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_3
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfff82437bd701e90800000000000000
+      internalID: -7057002390281977860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_4
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d3fbc69f12427e0800000000000000
+      internalID: -1791269396631569041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_5
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9217678be699d7930800000000000000
+      internalID: 4142635933070946601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_6
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2253cbb4384e1e0800000000000000
+      internalID: -2169464759182351712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_7
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1280008840dcf71a0800000000000000
+      internalID: -6809498692215633887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_8
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512ddafcf9c927c50800000000000000
+      internalID: 6661559009032393237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_9
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b70c459dbd21c390800000000000000
+      internalID: -7799902787352131662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_10
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb7ac1abd09617f0800000000000000
+      internalID: -642166623867077661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_11
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13ee9adf297bbda0800000000000000
+      internalID: -5928011238064856290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_12
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbaec1258b7fe10a0800000000000000
+      internalID: -6908812407316092229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c231c02f9236470800000000000000
+      internalID: 8386593050655403041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0dd5d6e7159b3df0800000000000000
+      internalID: -199401828598293234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e69e8d5a64ef5310800000000000000
+      internalID: 1396085554995435238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_16
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3bbf302365cecd0800000000000000
+      internalID: -2527550518046510135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_17
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e833a29b61db67110800000000000000
+      internalID: 1258401051190113166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_18
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f363805e63a808f60800000000000000
+      internalID: 8034573703604352575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_19
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c58e9e23ccd7920800000000000000
+      internalID: 2989770246688627843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_20
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1edb1ee6225006b0800000000000000
+      internalID: -5332171631649628646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_21
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e585d83ecd5b36940800000000000000
+      internalID: 5288270347778218078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_22
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f7f53fb9f9bad30800000000000000
+      internalID: 4443820949482995572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_23
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f345cd7d40a3a170800000000000000
+      internalID: 8188564802172699639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_24
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1030d5c868daf0fa0800000000000000
+      internalID: -5832252199029374207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_25
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4fbf32513cc46c0800000000000000
+      internalID: -4157733860404366100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abeff7f8768616950800000000000000
+      internalID: 6440543736114970298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_27
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac2a114cd5a96f60800000000000000
+      internalID: 8028130176168242349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_28
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e37344e80c08690800000000000000
+      internalID: -7601864453739037047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_29
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e284a5d168c617e30800000000000000
+      internalID: 4499496825993709614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_30
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d84e99afc3d7fbb0800000000000000
+      internalID: -4902216780512081704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_31
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d99a928a56d134c0800000000000000
+      internalID: -4309427684190283312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_32
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282d4820249adf970800000000000000
+      internalID: 8790368148672270978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_33
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b065726e2b640090800000000000000
+      internalID: -8069206785376558923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_34
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103cebedecc41d6a0800000000000000
+      internalID: -6426270741896969471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_35
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da222c55197843c0800000000000000
+      internalID: -4375113905343419693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_36
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831af2d33f8a286b0800000000000000
+      internalID: -5295484449177231048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_37
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb8f405ca65d9a70800000000000000
+      internalID: 8835313342052535266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_38
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686bb16f3244127f0800000000000000
+      internalID: -639154750866344314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4d2ff75fa4b2210800000000000000
+      internalID: 1309222534955324624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_40
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 540
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71246bbe0782f310800000000000000
+      internalID: 1437359728427803002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_41
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 540
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048cede67b2a4a9b0800000000000000
+      internalID: -5069748371789526976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_42
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 540
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fc13c3a472d69a0800000000000000
+      internalID: -6238286709047308523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromWALK_600x889_43
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 540
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b553c57c85833590800000000000000
+      internalID: -7695660499928394314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

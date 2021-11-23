@@ -16,7 +16,11 @@ public class PlayerMovement : MonoBehaviour
 
     bool crouch = false;
 
+    bool walk = false;
+
     public Animator animator;
+
+    public ParticleSystem dust;
 
     // Update is called once per frame
     void Update()
@@ -26,6 +30,7 @@ public class PlayerMovement : MonoBehaviour
 
         if (Input.GetButtonDown("Jump"))
         {
+            CreateDust();
             jump = true;
             animator.SetBool("isJumping", true);
         }
@@ -37,11 +42,24 @@ public class PlayerMovement : MonoBehaviour
         {
             crouch = false;
         }
+
+        if (Input.GetButtonDown("Walk") || Input.GetKeyDown(KeyCode.LeftShift))
+        {
+            walk = true;
+        }
+        else if (Input.GetButtonUp("Walk") || Input.GetKeyUp(KeyCode.LeftShift))
+        {
+            walk = false;
+        }
+
+
     }
 
     public void OnLanding()
     {
+        CreateDust();
         animator.SetBool("isJumping", false);
+       //animator.SetBool("jumpedAlready", false);
     }
 
     public void OnCrouching(bool isCrouching)
@@ -49,12 +67,21 @@ public class PlayerMovement : MonoBehaviour
         animator.SetBool("isCrouching", isCrouching);
     }
 
+    public void OnWalking(bool isWalking)
+    {
+        animator.SetBool("isWalking", isWalking);
+    }
+
     private void FixedUpdate()
     {
-       // animator.SetFloat("Speed", Mathf.Abs(horizontalMove));
         // MOVE
-        controller.Move(horizontalMove * Time.fixedDeltaTime, crouch, jump);
+        controller.Move(horizontalMove * Time.fixedDeltaTime, crouch, jump, walk);
         jump = false;
+    }
+
+    void CreateDust()
+    {
+        dust.Play();
     }
 
 

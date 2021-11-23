@@ -1,0 +1,1206 @@
+fileFormatVersion: 2
+guid: 7161ab77e36cd0745a32e22f4150b28b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2117894305879086727
+    second: adam_FLOATFromJUMP_600x889_0
+  - first:
+      213: -6759171247828730865
+    second: adam_FLOATFromJUMP_600x889_1
+  - first:
+      213: 7119272500710670657
+    second: adam_FLOATFromJUMP_600x889_2
+  - first:
+      213: -8573796813124222701
+    second: adam_FLOATFromJUMP_600x889_3
+  - first:
+      213: -5112610854164428100
+    second: adam_FLOATFromJUMP_600x889_4
+  - first:
+      213: 8467127700212312561
+    second: adam_FLOATFromJUMP_600x889_5
+  - first:
+      213: 7117192896790866053
+    second: adam_FLOATFromJUMP_600x889_6
+  - first:
+      213: 4374517337272165415
+    second: adam_FLOATFromJUMP_600x889_7
+  - first:
+      213: -8976516281338965545
+    second: adam_FLOATFromJUMP_600x889_8
+  - first:
+      213: 1481053153114022713
+    second: adam_FLOATFromJUMP_600x889_9
+  - first:
+      213: -8580087515792700942
+    second: adam_FLOATFromJUMP_600x889_10
+  - first:
+      213: 2484174751112695948
+    second: adam_FLOATFromJUMP_600x889_11
+  - first:
+      213: 6579018175221780840
+    second: adam_FLOATFromJUMP_600x889_12
+  - first:
+      213: -5656037215628912671
+    second: adam_FLOATFromJUMP_600x889_13
+  - first:
+      213: 1951221400291559221
+    second: adam_FLOATFromJUMP_600x889_14
+  - first:
+      213: 8188736018689917055
+    second: adam_FLOATFromJUMP_600x889_15
+  - first:
+      213: 5624162565986725001
+    second: adam_FLOATFromJUMP_600x889_16
+  - first:
+      213: 2894717441270253016
+    second: adam_FLOATFromJUMP_600x889_17
+  - first:
+      213: 6622236785068914367
+    second: adam_FLOATFromJUMP_600x889_18
+  - first:
+      213: 2562088768814096922
+    second: adam_FLOATFromJUMP_600x889_19
+  - first:
+      213: -8847866965860690328
+    second: adam_FLOATFromJUMP_600x889_20
+  - first:
+      213: 6799633539489846113
+    second: adam_FLOATFromJUMP_600x889_21
+  - first:
+      213: -335980523646698554
+    second: adam_FLOATFromJUMP_600x889_22
+  - first:
+      213: 602758696497524055
+    second: adam_FLOATFromJUMP_600x889_23
+  - first:
+      213: 825276083277468956
+    second: adam_FLOATFromJUMP_600x889_24
+  - first:
+      213: -5050756968949503098
+    second: adam_FLOATFromJUMP_600x889_25
+  - first:
+      213: 7560801655509438783
+    second: adam_FLOATFromJUMP_600x889_26
+  - first:
+      213: -6325432165001068036
+    second: adam_FLOATFromJUMP_600x889_27
+  - first:
+      213: 6634350994954440676
+    second: adam_FLOATFromJUMP_600x889_28
+  - first:
+      213: -6679603069174381790
+    second: adam_FLOATFromJUMP_600x889_29
+  - first:
+      213: -9110338225513523189
+    second: adam_FLOATFromJUMP_600x889_30
+  - first:
+      213: 3939359746885075372
+    second: adam_FLOATFromJUMP_600x889_31
+  - first:
+      213: 4162042600606520958
+    second: adam_FLOATFromJUMP_600x889_32
+  - first:
+      213: 1965982775202627699
+    second: adam_FLOATFromJUMP_600x889_33
+  - first:
+      213: 4034081920496499459
+    second: adam_FLOATFromJUMP_600x889_34
+  - first:
+      213: 4910887217700880961
+    second: adam_FLOATFromJUMP_600x889_35
+  - first:
+      213: -7058076276626138183
+    second: adam_FLOATFromJUMP_600x889_36
+  - first:
+      213: -8442293139179924552
+    second: adam_FLOATFromJUMP_600x889_37
+  - first:
+      213: -451750925442306877
+    second: adam_FLOATFromJUMP_600x889_38
+  - first:
+      213: 9049026823116867794
+    second: adam_FLOATFromJUMP_600x889_39
+  - first:
+      213: -7561605808440779913
+    second: adam_FLOATFromJUMP_600x889_40
+  - first:
+      213: -8502055897373306076
+    second: adam_FLOATFromJUMP_600x889_41
+  - first:
+      213: -4971197269479754649
+    second: adam_FLOATFromJUMP_600x889_42
+  - first:
+      213: 8008791839425583313
+    second: adam_FLOATFromJUMP_600x889_43
+  - first:
+      213: 3211637836719301715
+    second: adam_FLOATFromJUMP_600x889_44
+  - first:
+      213: -6923116783519945276
+    second: adam_FLOATFromJUMP_600x889_45
+  - first:
+      213: -3735609378577279600
+    second: adam_FLOATFromJUMP_600x889_46
+  - first:
+      213: -7335868157379513964
+    second: adam_FLOATFromJUMP_600x889_47
+  - first:
+      213: -7165175074340816625
+    second: adam_FLOATFromJUMP_600x889_48
+  - first:
+      213: -8135072514917552057
+    second: adam_FLOATFromJUMP_600x889_49
+  - first:
+      213: 2511377981026067005
+    second: adam_FLOATFromJUMP_600x889_50
+  - first:
+      213: 349927248934712222
+    second: adam_FLOATFromJUMP_600x889_51
+  - first:
+      213: 2913937591233161134
+    second: adam_FLOATFromJUMP_600x889_52
+  - first:
+      213: 5641163154887828089
+    second: adam_FLOATFromJUMP_600x889_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786debd66a5446d10800000000000000
+      internalID: 2117894305879086727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c722dcf899232a0800000000000000
+      internalID: -6759171247828730865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1410110be9cbcc260800000000000000
+      internalID: 7119272500710670657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_3
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311ca517931c30980800000000000000
+      internalID: -8573796813124222701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_4
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba09b2148b5c09b0800000000000000
+      internalID: -5112610854164428100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_5
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9660758c7418570800000000000000
+      internalID: 8467127700212312561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_6
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588272b2b3955c260800000000000000
+      internalID: 7117192896790866053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_7
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72425ef475865bc30800000000000000
+      internalID: 4374517337272165415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_8
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1d74270020d6380800000000000000
+      internalID: -8976516281338965545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_9
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93365dceef1cd8410800000000000000
+      internalID: 1481053153114022713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_10
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f989671dd76de880800000000000000
+      internalID: -8580087515792700942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_11
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80111046cf897220800000000000000
+      internalID: 2484174751112695948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_12
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 3207
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861dee85c2e5d4b50800000000000000
+      internalID: 6579018175221780840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e79c0e8e18b181b0800000000000000
+      internalID: -5656037215628912671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537c48a8681241b10800000000000000
+      internalID: 1951221400291559221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f708571f50c34a170800000000000000
+      internalID: 8188736018689917055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_16
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c20b04e0a0d0e40800000000000000
+      internalID: 5624162565986725001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_17
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d58a0c0d2a1c2820800000000000000
+      internalID: 2894717441270253016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_18
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6be881549e6eb50800000000000000
+      internalID: 6622236785068914367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_19
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12ae24292e5e8320800000000000000
+      internalID: 2562088768814096922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_20
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866d5ff5fdf063580800000000000000
+      internalID: -8847866965860690328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_21
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163df1c9da62d5e50800000000000000
+      internalID: 6799633539489846113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_22
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbb69c6e7b565bf0800000000000000
+      internalID: -335980523646698554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_23
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d230647dd6d5800800000000000000
+      internalID: 602758696497524055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_24
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c151169a938f37b00800000000000000
+      internalID: 825276083277468956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_25
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 2318
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bafeafb4b18e9b0800000000000000
+      internalID: -5050756968949503098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3153ddfb0d5de860800000000000000
+      internalID: 7560801655509438783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_27
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf10842a5fc8738a0800000000000000
+      internalID: -6325432165001068036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_28
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efc4816413f11c50800000000000000
+      internalID: 6634350994954440676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_29
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223804d06684d43a0800000000000000
+      internalID: -6679603069174381790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_30
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b089a9c07a3919180800000000000000
+      internalID: -9110338225513523189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_31
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1ce8371da6ba630800000000000000
+      internalID: 3939359746885075372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_32
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76d13d91bb82c930800000000000000
+      internalID: 4162042600606520958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_33
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3704d76fae2984b10800000000000000
+      internalID: 1965982775202627699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_34
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bf40a1220fbf730800000000000000
+      internalID: 4034081920496499459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_35
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142411fc7e9f62440800000000000000
+      internalID: 4910887217700880961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_36
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb561e850dac0e90800000000000000
+      internalID: -7058076276626138183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_37
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3967d7e13f6da80800000000000000
+      internalID: -8442293139179924552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_38
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 1429
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccae024dee0bb9f0800000000000000
+      internalID: -451750925442306877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8ccdaa3f9949d70800000000000000
+      internalID: 9049026823116867794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_40
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 540
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b5b509497cf0790800000000000000
+      internalID: -7561605808440779913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_41
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 540
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4239c880531a20a80800000000000000
+      internalID: -8502055897373306076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_42
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 540
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76474440c62c20bb0800000000000000
+      internalID: -4971197269479754649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adam_FLOATFromJUMP_600x889_43
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 540
+        width: 600
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8520ddeb1f42f60800000000000000
+      internalID: 8008791839425583313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
