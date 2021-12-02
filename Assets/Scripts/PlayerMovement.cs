@@ -59,7 +59,8 @@ public class PlayerMovement : MonoBehaviour
     {
         CreateDust();
         animator.SetBool("isJumping", false);
-       //animator.SetBool("jumpedAlready", false);
+        animator.SetBool("jumpedAlready", false);
+        animator.SetBool("isFloating", false);
     }
 
     public void OnCrouching(bool isCrouching)
@@ -74,9 +75,9 @@ public class PlayerMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
+        jump = false;
         // MOVE
         controller.Move(horizontalMove * Time.fixedDeltaTime, crouch, jump, walk);
-        jump = false;
     }
 
     void CreateDust()

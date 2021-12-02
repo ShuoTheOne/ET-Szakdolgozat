@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.Events;
+using System.Collections;
 
 public class CharacterController2D : MonoBehaviour
 {
@@ -19,6 +20,8 @@ public class CharacterController2D : MonoBehaviour
 	private Rigidbody2D m_Rigidbody2D;
 	private bool m_FacingRight = true;  // For determining which way the player is currently facing.
 	private Vector3 m_Velocity = Vector3.zero;
+	public bool floating;
+
 
 	[Header("Events")]
 	[Space]
@@ -34,6 +37,7 @@ public class CharacterController2D : MonoBehaviour
 	public BoolEvent OnWalkEvent;
 	private bool m_wasWalking = false;
 
+	public bool jump = false;
 	private int extraJump;
 	public int extraJumpValue;
 
@@ -55,10 +59,16 @@ public class CharacterController2D : MonoBehaviour
 			OnWalkEvent = new BoolEvent();
 	}
 
+	//float timer;
+	//float holdDur = 0.7f;
+
 	private void FixedUpdate()
 	{
+		jump = false;
+		Physics2D.gravity = new Vector2(0, -9.8f);
 		bool wasGrounded = m_Grounded;
 		m_Grounded = false;
+		floating = false;
 
 		Collider2D[] colliders = Physics2D.OverlapCircleAll(m_GroundCheck.position, k_GroundedRadius, m_WhatIsGround);
 		for (int i = 0; i < colliders.Length; i++)
@@ -70,24 +80,59 @@ public class CharacterController2D : MonoBehaviour
 					OnLandEvent.Invoke();
 			}
 		}
-	}
+		/*if (!wasGrounded && Input.GetButton("Jump")) REPÜLÉS ANIMÁCIÓ
+		{
+			Physics2D.gravity = new Vector2(0,-0.8f);
+			floating = true;
+			animator.SetBool("isJumping", false);
+			animator.SetBool("isFloating", true);
+		}*/
+		if (!m_Grounded && Input.GetButton("Jump") && m_Rigidbody2D.velocity.y < 0f)
+		{
+			Physics2D.gravity = new Vector2(0, -0.8f);
+			jump = false;
+			floating = true;
+			animator.SetBool("isJumping", false);
+			animator.SetBool("isFloating", true);
+		}
+		/*if (Input.GetButtonDown("Jump"))
+		{
+			timer = Time.time;
+			animator.SetBool("isJumping", false);
+			animator.SetBool("jumpedAlready", true);
+		}
+		else if (Input.GetButton("Jump"))
+		{
+			if (Time.time - timer > holdDur)
+			{
+				Physics2D.gravity = new Vector2(0, -0.8f);
+				jump = false;
+				floating = true;
+				animator.SetBool("isJumping", false);
+				animator.SetBool("isFloating", true);
+				timer = float.PositiveInfinity;
+			}
+		}
+		else
+		{
+			timer = float.PositiveInfinity;
+		}*/
 
-    private void Update()
+	}
+	private void Update()
     {
 		if (m_Grounded == true)
 		{
 			extraJump = extraJumpValue;
 		}
 
-		if (Input.GetButtonDown("Jump") && extraJump > 0)
+		if (Input.GetButtonDown("Jump") && extraJump > 0) // doublejump
 		{
 			m_Rigidbody2D.AddForce(new Vector2(0f, m_JumpForce));
 			extraJump--;
 		}
-		else if (Input.GetButtonDown("Jump") && extraJump == 0 && m_Grounded == true)
-		{
-			m_Rigidbody2D.AddForce(new Vector2(0f, m_JumpForce));
-		}
+
+
 	}
 
 
@@ -167,6 +212,7 @@ public class CharacterController2D : MonoBehaviour
 			m_Grounded = false;
 			m_Rigidbody2D.AddForce(new Vector2(0f, m_JumpForce));
 		}
+
 	}
 
 
