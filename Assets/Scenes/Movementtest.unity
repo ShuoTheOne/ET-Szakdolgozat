@@ -263,7 +263,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 5, y: 8.89}
+    oldSize: {x: 6, y: 8.89}
     newSize: {x: 5, y: 8.89}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -352,6 +352,8 @@ MonoBehaviour:
   m_CeilingCheck: {fileID: 1075802415}
   m_CrouchDisableCollider: {fileID: 495622534}
   floating: 0
+  jumpDelay: 0.5
+  doubleJumpReady: 0
   OnLandEvent:
     m_PersistentCalls:
       m_Calls:
@@ -434,7 +436,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 5, y: 8.89}
+    oldSize: {x: 6, y: 8.89}
     newSize: {x: 5, y: 8.89}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
