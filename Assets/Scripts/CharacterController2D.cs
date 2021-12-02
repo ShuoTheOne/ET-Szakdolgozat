@@ -21,6 +21,8 @@ public class CharacterController2D : MonoBehaviour
 	private bool m_FacingRight = true;  // For determining which way the player is currently facing.
 	private Vector3 m_Velocity = Vector3.zero;
 	public bool floating;
+	public float jumpDelay = 0.5f;
+	public bool doubleJumpReady = false;
 
 
 	[Header("Events")]
@@ -58,10 +60,6 @@ public class CharacterController2D : MonoBehaviour
 		if (OnWalkEvent == null)
 			OnWalkEvent = new BoolEvent();
 	}
-
-	//float timer;
-	//float holdDur = 0.7f;
-
 	private void FixedUpdate()
 	{
 		jump = false;
@@ -87,7 +85,8 @@ public class CharacterController2D : MonoBehaviour
 			animator.SetBool("isJumping", false);
 			animator.SetBool("isFloating", true);
 		}*/
-		if (!m_Grounded && Input.GetButton("Jump") && m_Rigidbody2D.velocity.y < 0f)
+		
+		if (!m_Grounded && Input.GetButton("Jump") && m_Rigidbody2D.velocity.y < 0f) // floating, grind
 		{
 			Physics2D.gravity = new Vector2(0, -0.8f);
 			jump = false;
@@ -95,29 +94,6 @@ public class CharacterController2D : MonoBehaviour
 			animator.SetBool("isJumping", false);
 			animator.SetBool("isFloating", true);
 		}
-		/*if (Input.GetButtonDown("Jump"))
-		{
-			timer = Time.time;
-			animator.SetBool("isJumping", false);
-			animator.SetBool("jumpedAlready", true);
-		}
-		else if (Input.GetButton("Jump"))
-		{
-			if (Time.time - timer > holdDur)
-			{
-				Physics2D.gravity = new Vector2(0, -0.8f);
-				jump = false;
-				floating = true;
-				animator.SetBool("isJumping", false);
-				animator.SetBool("isFloating", true);
-				timer = float.PositiveInfinity;
-			}
-		}
-		else
-		{
-			timer = float.PositiveInfinity;
-		}*/
-
 	}
 	private void Update()
     {
@@ -125,16 +101,42 @@ public class CharacterController2D : MonoBehaviour
 		{
 			extraJump = extraJumpValue;
 		}
-
-		if (Input.GetButtonDown("Jump") && extraJump > 0) // doublejump
-		{
+		if (Input.GetButtonDown("Jump") && extraJump > 0) {
+			CreateDust();
+			jump = true;
+			animator.SetBool("isJumping", true);
 			m_Rigidbody2D.AddForce(new Vector2(0f, m_JumpForce));
-			extraJump--;
+			if (doubleJumpReady)
+            {
+				DoubleJump();
+            }
+			else
+            {
+				PrepareJump();
+            }
 		}
-
-
 	}
 
+	void DoubleJump()
+    {
+		doubleJumpReady = false;
+		m_Rigidbody2D.AddForce(new Vector2(0f, m_JumpForce/4));
+		animator.SetBool("isJumping", false);
+		animator.SetBool("jumpedAlready", true);
+		extraJump--;
+	}
+	void PrepareJump()
+    {
+		//this is where the handling happens
+		CancelInvoke("NoJump");
+		Invoke("NoJump", jumpDelay);
+		doubleJumpReady = true;
+	}
+
+	void NoJump()
+    {
+		doubleJumpReady = false;
+	}
 
     public void Move(float move, bool crouch, bool jump, bool walk)
 	{
@@ -145,7 +147,11 @@ public class CharacterController2D : MonoBehaviour
 				crouch = true;
 			}
 		}
-
+		if (m_Grounded && jump)
+		{
+			m_Grounded = false;
+			m_Rigidbody2D.AddForce(new Vector2(0f, m_JumpForce));
+		}
 		if (walk)
         {
 			if (!m_wasWalking)
@@ -207,12 +213,6 @@ public class CharacterController2D : MonoBehaviour
 				//animator.SetBool("isTurning", false); TODO
 			}
 		}
-		if (m_Grounded && jump)
-		{
-			m_Grounded = false;
-			m_Rigidbody2D.AddForce(new Vector2(0f, m_JumpForce));
-		}
-
 	}
 
 

@@ -28,13 +28,6 @@ public class PlayerMovement : MonoBehaviour
         horizontalMove =  Input.GetAxisRaw("Horizontal") * runSpeed;
         animator.SetFloat("Speed", Mathf.Abs(horizontalMove));
 
-        if (Input.GetButtonDown("Jump"))
-        {
-            CreateDust();
-            jump = true;
-            animator.SetBool("isJumping", true);
-        }
-
         if (Input.GetButtonDown("Crouch"))
         {
             crouch = true;
