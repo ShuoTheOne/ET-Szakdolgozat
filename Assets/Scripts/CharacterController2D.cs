@@ -24,7 +24,6 @@ public class CharacterController2D : MonoBehaviour
 	public float jumpDelay = 0.5f;
 	public bool doubleJumpReady = false;
 
-
 	[Header("Events")]
 	[Space]
 
@@ -99,8 +98,9 @@ public class CharacterController2D : MonoBehaviour
     {
 		if (m_Grounded == true)
 		{
-			extraJump = extraJumpValue;
-		}
+			extraJump = extraJumpValue;			
+        }
+       
 		if (Input.GetButtonDown("Jump") && extraJump > 0) {
 			CreateDust();
 			jump = true;
