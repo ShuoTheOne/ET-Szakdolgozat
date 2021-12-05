@@ -23,10 +23,11 @@ public class CharacterController2D : MonoBehaviour
 	public bool floating;
 	public float jumpDelay = 0.5f;
 	public bool doubleJumpReady = false;
+	public CameraShake cameraShake;
 
 	[Header("Events")]
 	[Space]
-
+	
 	public UnityEvent OnLandEvent;
 
 	[System.Serializable]
@@ -66,6 +67,8 @@ public class CharacterController2D : MonoBehaviour
 		bool wasGrounded = m_Grounded;
 		m_Grounded = false;
 		floating = false;
+		animator.SetBool("isTurning", false);
+
 
 		Collider2D[] colliders = Physics2D.OverlapCircleAll(m_GroundCheck.position, k_GroundedRadius, m_WhatIsGround);
 		for (int i = 0; i < colliders.Length; i++)
@@ -75,6 +78,8 @@ public class CharacterController2D : MonoBehaviour
 				m_Grounded = true;
 				if (!wasGrounded)
 					OnLandEvent.Invoke();
+				//StartCoroutine(cameraShake.Shake(.15f, .4f));
+				//StartCoroutine(cameraShake.Shaking());
 			}
 		}
 		/*if (!wasGrounded && Input.GetButton("Jump")) REPÜLÉS ANIMÁCIÓ
@@ -108,8 +113,8 @@ public class CharacterController2D : MonoBehaviour
 			m_Rigidbody2D.AddForce(new Vector2(0f, m_JumpForce));
 			if (doubleJumpReady)
             {
-				DoubleJump();
-            }
+				DoubleJump();	
+			}
 			else
             {
 				PrepareJump();
@@ -124,6 +129,7 @@ public class CharacterController2D : MonoBehaviour
 		animator.SetBool("isJumping", false);
 		animator.SetBool("jumpedAlready", true);
 		extraJump--;
+		cameraShake.start = true;
 	}
 	void PrepareJump()
     {
@@ -204,13 +210,13 @@ public class CharacterController2D : MonoBehaviour
 			{
 				CreateDust(); // PARTICLE WHEN TURNING
 				Flip();
-				//animator.SetBool("isTurning", true); TODO
+				//animator.SetBool("isTurning", true);
 			}
 			else if (move < 0 && m_FacingRight)
 			{
 				CreateDust(); // PARTICLE WHEN TURNING
 				Flip();
-				//animator.SetBool("isTurning", false); TODO
+				//animator.SetBool("isTurning", false);
 			}
 		}
 	}
@@ -222,6 +228,7 @@ public class CharacterController2D : MonoBehaviour
 		Vector3 theScale = transform.localScale;
 		theScale.x *= -1;
 		transform.localScale = theScale;
+		animator.SetBool("isTurning", true);
 	}
 
 	void CreateDust()
